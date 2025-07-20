@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Hi, I'm Jaydeep Mante
 
-<!--
-**Jaydeep-Mante/Jaydeep-Mante** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I’m currently a 3rd-year Diploma student in Computer Engineering at **Cusrow Wadia Institute of Technology**, Pune.
 
-Here are some ideas to get you started:
+👨‍💻 I’m interning as a **Software Developer** at **Tronsoftech Pvt. Ltd.**, where I’m gaining hands-on experience in **web development**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+- 💻 **Languages**: Python, C, C++
+- 🌐 **Web**: HTML, CSS
+- 🔧 **Tools**: Git, GitHub, VS Code
+
+## 🚀 Projects I'm Working On
+- 🌐 Food Delivery Web App (Flask-based)
+- 💊 Medical Store Management (FastAPI backend)
+- 🎮 Gaming Portal with install options and login system
+
+## 📚 Currently Learning
+- JavaScript & Frontend Frameworks
+- Database Integration (SQLite, MySQL)
+
+## 📫 Let's Connect
+- 📍 Pune, India
+- 📧 Email: [jaydeepmante45.com]
+- 💼 LinkedIn: [your LinkedIn Profile URL]
+
+---
