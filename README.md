@@ -20,7 +20,7 @@
 
 ## 📫 Let's Connect
 - 📍 Pune, India
-- 📧 Email: [jaydeepmante45.com]
+- 📧 Email: [jaydeepmante45@gmail.com]
 - 💼 LinkedIn: [https://github.com/Jaydeep-Mante]
 
 ---
